@@ -1,0 +1,3 @@
+- Hi, I'm Albert Stark. An undergraduate mathematics student at the University of Sydney.
+- I have an interest in various areas of computational mathematics, from more pure leaning areas like computational algebra, to applied areas of numerical evaluation of differential equations, physical / biological modeling etc.
+- This github page is where I put various bits of code that im marginally proud of, I hope you enjoy! Please also check out [my website](https://albert10032.github.io/index.html).
