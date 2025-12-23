@@ -1,2 +1,3 @@
 - Hi, I'm Albert Stark. An undergraduate mathematics student at the University of Sydney.
 - This github page is where I put various bits of code that im marginally proud of, I hope you enjoy! Please also check out [my website](https://albert10032.github.io/index.html).
+- Unless otherwise stated, assume that any code published here is under the [Creative Commons Attribution-ShareAlike licence](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License), if you do end up using any of this I would be delighted if you emailed me about it, my email is under my profile. 
